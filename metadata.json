@@ -1,0 +1,8 @@
+{
+  "name": "Remix SwiftServe — Smart Food Delivery \u0026 Rider Assignment",
+  "description": "Production-grade Food Delivery \u0026 Rider Assignment Platform integrating DBMS, DMGT, ADSA (BFS Zone Routing), OOPJ, and Python ML (Delivery ETA Regression).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
